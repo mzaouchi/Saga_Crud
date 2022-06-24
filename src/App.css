@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+.sagasaga{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.sago{
+  width: 30%;
+  margin-top: 10%;
+}
+
+.cardd{
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
